@@ -4,8 +4,8 @@
 
 # 🌐 Welcome to BharatHorizon
 
-**BharatHorizon** is India’s emerging powerhouse in Software, Cloud, and AI.  
-We build smart, secure, and scalable tech solutions to empower businesses and developers across the nation.
+**BharatHorizon** aspires to become India’s next big name in Software, Cloud, and AI.  
+We’re on a mission to craft smart, secure, and scalable solutions that will empower developers and businesses across the nation.
 
 ---
 
