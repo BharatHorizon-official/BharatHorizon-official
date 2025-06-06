@@ -44,6 +44,11 @@ We’re on a mission to craft smart, secure, and scalable solutions that will em
 ---
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BharatHorizon-official&label=Visitors&color=0e75b6&style=flat" alt="Visitor Count"/>
+</p>
+
+
+<p align="center">
   <i>Made with 🇮🇳 for the world.</i>
 </p>
 
