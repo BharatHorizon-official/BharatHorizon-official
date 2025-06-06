@@ -9,7 +9,7 @@ We’re on a mission to craft smart, secure, and scalable solutions that will em
 
 ---
 
-## 🧠 What We Do
+## 🧠 What We Want To Do
 
 - 🔧 Custom Software Development  
 - ⚙️ Full-Stack Web Apps  
@@ -19,7 +19,7 @@ We’re on a mission to craft smart, secure, and scalable solutions that will em
 
 ---
 
-## 🚀 Vision
+## 🚀 Our Vision
 
 > *Empowering Bharat through digital excellence.*  
 > *Code that serves. Design that inspires. Tech that transforms.*
@@ -38,8 +38,8 @@ We’re on a mission to craft smart, secure, and scalable solutions that will em
 ## 📍 We're Here:
 
 - 🐙 [@bharathorizon GitHub Org](https://github.com/BharatHorizon-official)
-- 🚀
-- 🌐 [Website (Coming Soon)](https://bharathorizon.netlify.app/)
+- 🚀 [Landing Page](https://bharathorizon.netlify.app/)
+- 🌐 [Website (Coming Soon)]
 
 ---
 
