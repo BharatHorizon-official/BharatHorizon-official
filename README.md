@@ -37,7 +37,7 @@ We’re on a mission to craft smart, secure, and scalable solutions that will em
 
 ## 📍 We're Here:
 
-- 🐙 [@bharathorizon GitHub Org](https://github.com/bharathorizon)
+- 🐙 [@bharathorizon GitHub Org](https://github.com/BharatHorizon-official)
 - 🚀
 - 🌐 [Website (Coming Soon)](https://bharathorizon.netlify.app/)
 
